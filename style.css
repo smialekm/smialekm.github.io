@@ -9,19 +9,19 @@ body {
 
 /* Applies to all <h1>...</h1> elements. */
 h1 {
-  font-size: 35px;
+  font-size: 40px;
   font-weight: bold;
   margin-top: 5px;
   margin-bottom: 5px;
 }
 
 h2 {
-  font-size: 35px;
+  font-size: 40px;
   font-weight: normal;
 }
 
 h3 {
-  font-size: 22px;
+  font-size: 28px;
   font-weight: bold;
 }
 
