@@ -1,4 +1,4 @@
-# ![MŚ](/pict/smialek.jpg) Michał Śmiałek
+# ![MŚ](/images/smialek.jpg) Michał Śmiałek
 ## Home page
 [ORCID](https://orcid.org/0000-0001-6170-443X)![OrcidId](https://orcid.org/sites/default/files/images/orcid_16x16.png)
 
