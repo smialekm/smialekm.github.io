@@ -1,4 +1,4 @@
-# <img src="/images/smialek.jpg" width=20%> Michał Śmiałek
+<img src="/images/smialek.jpg" width=20%> Michał Śmiałek
 
 ## Home page
 
