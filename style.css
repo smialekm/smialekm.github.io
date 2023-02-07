@@ -48,6 +48,11 @@ li a:hover {
 
 a { text-decoration: none; }
 
+div.wrap {
+    width:960px;
+    margin:0 auto;
+}
+
 /* Applies to all elements with <... class="someclass"> specified. */
 .someclass { color: red; }
 
