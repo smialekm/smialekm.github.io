@@ -1,5 +1,5 @@
 # ![MŚ](/images/smialek.jpg) Michał Śmiałek
-<img src="/images/smialek.jpg" width=25%>
+# <img src="/images/smialek.jpg" width=25%> Michał Śmiałek
 
 ## Home page
 
