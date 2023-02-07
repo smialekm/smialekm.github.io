@@ -39,6 +39,8 @@ li a:hover {
   background-color: #111;
 }
 
+a { text-decoration: none; }
+
 /* Applies to all elements with <... class="someclass"> specified. */
 .someclass { color: red; }
 
