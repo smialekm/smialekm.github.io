@@ -34,11 +34,11 @@ ul.menu {
   max-width: 960;
 }
 
-li {
+li.item {
   float: left;
 }
 
-li.item {
+li a.item {
   display: block;
   color: white;
   text-align: center;
