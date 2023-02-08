@@ -38,7 +38,7 @@ li {
   float: left;
 }
 
-li a {
+li.item {
   display: block;
   color: white;
   text-align: center;
